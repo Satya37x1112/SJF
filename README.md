@@ -1,6 +1,7 @@
 ## SJF (SHORTEST JOB FIRST) Scheduling
 In the Shortest Job First scheduling algorithm, the processes are scheduled in ascending order of their CPU burst times, i.e. the CPU is allocated to the process with the shortest execution time.
 Variants of SJF Scheduling
+<img width="814" height="500" alt="image" src="https://github.com/user-attachments/assets/6d00cc63-1282-4228-ae6e-4b995eacb4a4" />
 
 **There are two variants of SJF scheduling −**
 
